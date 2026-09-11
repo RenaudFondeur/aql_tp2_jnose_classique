@@ -1,0 +1,17 @@
+fr\univ_lille\aql_tp1\model\move\BoardOutOfBoundColumnMoveTest.class
+fr\univ_lille\aql_tp1\model\turn\BoardSecondTurnTest.class
+fr\univ_lille\aql_tp1\model\win\BoardWinningDiagonalMoveTest.class
+fr\univ_lille\aql_tp1\model\turn\BoardTwoAlignementTurnTest.class
+fr\univ_lille\aql_tp1\model\move\BoardMoveOnAlreadyMarkedCellTest.class
+fr\univ_lille\aql_tp1\model\turn\BoardTwoVerticalAlignementTurnTest.class
+fr\univ_lille\aql_tp1\model\win\BoardWinningHorizontalMoveTest.class
+fr\univ_lille\aql_tp1\model\BoardTest.class
+fr\univ_lille\aql_tp1\model\turn\BoardBaseTurnTest.class
+fr\univ_lille\aql_tp1\model\turn\BoardFirstTurnTest.class
+fr\univ_lille\aql_tp1\model\move\BoardNegativeRowMoveTest.class
+fr\univ_lille\aql_tp1\model\turn\BoardTwoDiagonalAlignementTurnTest.class
+fr\univ_lille\aql_tp1\model\turn\BoardTwoHorizontalAlignementTurnTest.class
+fr\univ_lille\aql_tp1\model\move\BoardNegativeColumnMoveTest.class
+fr\univ_lille\aql_tp1\model\move\BoardOutOfBoundRowMoveTest.class
+fr\univ_lille\aql_tp1\model\move\BoardInvalidRangeMoveTest.class
+fr\univ_lille\aql_tp1\model\win\BoardWinningVerticalMoveTest.class
