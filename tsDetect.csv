@@ -1,0 +1,14 @@
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/move/BoardMoveOnAlreadyMarkedCellTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/move/BoardNegativeColumnMoveTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/move/BoardNegativeRowMoveTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/move/BoardOutOfBoundColumnMoveTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/move/BoardOutOfBoundRowMoveTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/turn/BoardBaseTurnTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/turn/BoardFirstTurnTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/turn/BoardSecondTurnTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/turn/BoardTwoDiagonalAlignementTurnTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/turn/BoardTwoHorizontalAlignementTurnTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/turn/BoardTwoVerticalAlignementTurnTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/win/BoardWinningDiagonalMoveTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/win/BoardWinningHorizontalMoveTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
+tictactoe,aql_tp2_jnose_classique/src/test/java/fr/univ_lille/aql_tp1/model/win/BoardWinningVerticalMoveTest.java,aql_tp2_jnose_classique/src/main/java/fr/univ_lille/aql_tp1/model/Board.java
